@@ -258,6 +258,11 @@
     "UserMessages-Ordinal_two_suffix": "nd",
     "UserMessages-Ordinal_few_suffix": "rd",
     "UserMessages-Ordinal_other_suffix": "th",
+    
+
+    "WhenEditor-allDay": "All Day",
+    "WhenEditor-startTime": "Start Time",
+    "WhenEditor-finishTime": "Finish Time",
 
 
     "": ""
